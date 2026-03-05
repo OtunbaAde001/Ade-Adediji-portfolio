@@ -27,4 +27,18 @@ Threat Intelligence and Vulnerability Management.
 - Systems Security Certified Practitioner (SSCP by isc²)
 - ISO 27001 Lead Implementer
 
+## Featured Projects
+
+### SOC Detection Rules
+Detection queries for identifying suspicious activities across enterprise environments.
+
+### Vulnerability Management Framework
+Risk-based vulnerability remediation strategy using CVSS prioritisation.
+
+### Threat Hunting Queries
+Collection of advanced hunting queries for Microsoft Defender and Sentinel.
+
+### Incident Response Playbooks
+NIST-aligned incident response procedures for ransomware, phishing and insider threat
+
 Open to new challenging cybersecurity opportunities
